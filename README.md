@@ -198,3 +198,4 @@ using the `<` syntax in our class definition (`class Child < Parent`), which
 lets the subclass use methods that are defined on the parent class. We also
 discussed how **method lookup** works in Ruby, when multiple classes define the
 same method.
+# Phase3DefiningInheritance
